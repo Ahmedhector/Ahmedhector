@@ -1,9 +1,9 @@
 <
 <!--
-**karim-Elmogy/karim-Elmogy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ahmedhector/Ahmedhector** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karim-Elmogy&show_icons=true&theme=gruvbox&locale=en" alt="karim-Elmogy" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Amr&show_icons=true&theme=gruvbox&locale=en" alt="Ahmedhector" /></p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
