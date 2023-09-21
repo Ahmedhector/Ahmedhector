@@ -1,3 +1,4 @@
+<
 <!--
 **Ahmedhector/Ahmedhector** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=2500&color=979797&width=435&lines=Front-End+Engineer;Human+Resources)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=2500&color=979797&width=435&lines=Front-End+Developer;Human+Resources)](https://git.io/typing-svg)
 </div>
 <div>
   
